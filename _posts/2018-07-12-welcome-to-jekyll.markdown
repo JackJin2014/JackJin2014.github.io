@@ -6,6 +6,8 @@ categories: jekyll update
 tags: [web, jekyll]
 ---
 
+
+
 ### minima 主题
 * https://github.com/jekyll/minima
 * 查看所在 Mac 目录：bundle show minima 
@@ -13,8 +15,16 @@ tags: [web, jekyll]
 * 查看jekyll 版本 $ bundle exec jekyll -version jekyll 
 
 
+* [为 Jekyll 博客添加 category 分类](http://pizn.github.io/2012/02/23/use-category-plugin-for-jekyll-blog.html)
+* [Use Tags and Categories in your Jekyll based Github Pages without plugins](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
 * [Google Analytics for Jekyll](https://desiredpersona.com/google-analytics-jekyll/)
 * [Jekyll 安装 Google分析](https://xu3352.github.io/blog/2017/06/03/Google-Analytics-setup-for-Jekyll)
+
+
+
+### DevRel
+* DevRel.info Jekyll site as organizations pages http://devrel.info
+* https://github.com/DevRela/devrela.github.io
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
