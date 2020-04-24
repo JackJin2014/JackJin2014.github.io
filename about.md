@@ -7,11 +7,9 @@ permalink: /about/
 ## 关于我
 送大伙一副苏州「全晋会馆」戏台对子，人生tm就是一台戏！
 
-![jack](/Users/jack/JackJin.io/JackJin2014.github.io/images/jack.jpeg)
+![jack](https://github.com/JackJin2014/JackJin2014.github.io/blob/master/images/jack.jpeg)
 
 **普天同庆： 装谁像谁谁装谁谁就像谁, 看我非我我看我我也非我.** 
-
-
 
 Jack IDaaS（身份即服务） 行业创业者，2016年创立 freeCodeCamp.cn 中文社区，是一位在开发者生态领域投入多年的连续创业者，曾是一名编程老师，也是开发者社区运营专家。拥有5年的开发者社区运营经验，将近4年的创业经验，3年的嵌入式 Linux C 开发和教育经验，2年的Android 编程教育经验，2年的区块链从业经历。2014年，加入 GDG Suzhou 并成为组织者，受邀参加 Google I/O 2015大会。他对「开发者关系」在中国的状况有自己独到的理解，Jack 对「开源软件运动与开发者关系」有着赤诚的热情❤️
 
