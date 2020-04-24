@@ -7,7 +7,7 @@ permalink: /about/
 ## 关于我
 送大伙一副苏州「全晋会馆」戏台对子，人生tm就是一台戏！
 
-![jack](https://github.com/JackJin2014/JackJin2014.github.io/blob/master/images/jack.jpeg)
+![jack](./images/jack.jpeg)
 
 **普天同庆： 装谁像谁谁装谁谁就像谁, 看我非我我看我我也非我.** 
 
